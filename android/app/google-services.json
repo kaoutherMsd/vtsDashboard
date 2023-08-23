@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628071772829",
+    "firebase_url": "https://esp32test-4f2c1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32test-4f2c1",
+    "storage_bucket": "esp32test-4f2c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628071772829:android:51cca55a10af9e7bf09a74",
+        "android_client_info": {
+          "package_name": "com.dashboard.flutter.app.flutter_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628071772829-bbdmjtdpsrs5l4uqa4b0m63n795u2pu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpT8OwWAjrq8Uk5roE5Donv69uyZVQNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628071772829-bbdmjtdpsrs5l4uqa4b0m63n795u2pu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628071772829-m029t3muk1ab9d13qllo34k0g2dq9c0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dashboard.flutter.app.flutterDashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
